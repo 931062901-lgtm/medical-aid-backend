@@ -1,6 +1,5 @@
 {
-  "name": "medical-aid-backend",
-  "version": 1,
+  "version": 2,
   "builds": [
     {
       "src": "server.js",
